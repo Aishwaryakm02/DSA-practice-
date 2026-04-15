@@ -5,4 +5,5 @@ This repo contains all the problems I solve while learning and improving my prob
 STRUCTURE:------
 
 1.Functions.
+2.Arrays.
 
