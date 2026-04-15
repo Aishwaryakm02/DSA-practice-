@@ -1,6 +1,8 @@
+#include <iostream.h>
 void prhlo(){
   cout<<"hello \n world";
 }
 int main(){
-  prhlo()
+  prhlo();
+  return 0;
 }
