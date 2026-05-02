@@ -3,13 +3,13 @@
 using namespace std;
 
 int main() {
-    int arr[] = {1, -2, 3, 4, -1};
-    int n = 5;
+    int arr[5] = {1, -2, 3, 4, -1};
+    
 
     int maxSum = INT_MIN;
     int currSum = 0;
 
-    for(int i = 0; i < n; i++) {
+    for(int i = 0; i < 5; i++) {
         currSum += arr[i];
 
         if(currSum > maxSum) {
