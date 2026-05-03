@@ -19,13 +19,6 @@ vector <int> ps(vector <int> v,int tar){
         }
     }
     return ans;
-        
-        
-    
-            
-        
-    
-
 }
   
 
